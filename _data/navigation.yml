@@ -18,8 +18,5 @@ main:
   - title: "Group member"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Contact us"
+  - title: "Contact"
     url: /markdown/
