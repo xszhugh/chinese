@@ -80,8 +80,9 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Xinshan Zhu"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "xszhu.png"
+  bio              : "Institute of Robotics and Autonomous, School of Electrical Engineering and Automation, Tianjin University
+"
   location         : "Tianjin, China"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
