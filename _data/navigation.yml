@@ -7,16 +7,16 @@ main:
     url: /teaching/   
         
   - title: "Research"
-    url: /publications/
+    url: /research/
     
   - title: "Publications"
     url: /publications/ 
 
   - title: "Patents"
-    url: /portfolio/
+    url: /patents/
         
   - title: "Group member"
-    url: /year-archive/
+    url: /group-member/
     
   - title: "Contact"
     url: /Contact/
