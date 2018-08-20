@@ -13,4 +13,4 @@ author_profile: true
 [4]	Xinshan Zhu. The improved dither modulation watermarking approach. CN patent, No. 2008101240191, 2010.12.08.  
 [5]	Xinshan Zhu. The watermarking approach based on the improved spread transform dither modulation. CN patent, No. 2008101240187, 2011.8.24
 
-The complete patent list is [`here`](https://github.com/academicpages/academicpages.github.io).
+The complete patent list is ![here](https://github.com/academicpages/academicpages.github.io).
