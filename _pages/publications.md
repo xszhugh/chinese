@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 The complete publication list is [<font color='blue'>here</font>](https://github.com/academicpages/academicpages.github.io "Publications").  
 \*corresponding author  
 ## Journal Papers:  
