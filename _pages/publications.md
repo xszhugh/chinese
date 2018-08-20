@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Papers ## (\*corresponding author):  
+## Journal Papers:  
+\*corresponding author  
 [1]	Sun, Biao, Zhao, Wenfeng, Zhu, Xinshan\*. Training-free compressed sensing for wireless neural recording using analysis model and group weighted l1-minimization. Journal of Neural Engineering,  Vol. 14, no. 3 , 2017, pp. 036018  
 [2]	Biao Sun, Hui Feng, Kefan Chen, and Xinshan Zhu\*. A Deep Learning Framework of Quantized Compressed Sensing for Wireless Neural Recording. IEEE Access, Vol. 4, 2016, pp. 5169-5178  
 [3]	Xinshan Zhu, Jie Ding, Honghui Dong, Kongfa Hu and Xiaobin Zhang, Normalized Correlation based Quantization Modulation for Robust Watermarking, IEEE Transactions on Multimedia, Vol. 16, No. 7, Nov. 2014, pp. 1888-1904  
@@ -33,4 +34,4 @@ author_profile: true
 [9]	Xinshan Zhu\*, Yong Gao and Yan Zhu. Image-adaptive Watermarking Based on Perceptually Shaping Watermark Blockwise. ACM Symposium on Information, Computer and Communications Security, Taiwan, 2006, pp. 175-181  
 [10]	Gao Yong, Wang Yangsheng and Xinshan Zhu, et al. “Weighted Gabor Features in Unitary Space for Face Recognition,” Proc. the 7th International Conference on Automatic Face and Gesture Recognition (FGR06), IEEE Computer Society, 2006. 79-84  
 
-The complete <font color='blue'>publication</font> list is <font color=#0099ff>[here](https://github.com/academicpages/academicpages.github.io "Publications")</font>.
+The complete publication list is <font color='blue'>[here](https://github.com/academicpages/academicpages.github.io "Publications")</font>.
