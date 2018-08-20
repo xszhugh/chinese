@@ -4,13 +4,15 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+Address:
+------
+Room 531, Building 26E, Weijin Park Campus, Tianjin University, 
+No.92, Weijin Road, Tianjin 300350, China
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Email:
+------
+xszhu@tju.edu.cn; xszhu126@126.com
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Phone: 
+------
++86-15805272725
