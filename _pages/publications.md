@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-The complete publication list is [<font color='blue'>here</font>](https://github.com/academicpages/academicpages.github.io "Publications").  
+The complete publication list is [<font color='blue'>here</font>](https://xszhugh.github.io/files/publications.pdf "Publications").  
 \*corresponding author  
 ## Journal Papers:  
 [1]	Sun, Biao, Zhao, Wenfeng, Zhu, Xinshan\*. Training-free compressed sensing for wireless neural recording using analysis model and group weighted l1-minimization. Journal of Neural Engineering,  Vol. 14, no. 3 , 2017, pp. 036018  
