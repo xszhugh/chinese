@@ -4,11 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-The complete project list is [<font color='blue'>here</font>](https://github.com/academicpages/academicpages.github.io "Patents").  
+The complete project list is [<font color='blue'>here</font>](https://github.com/academicpages/academicpages.github.io "Projects").  
 
-## Robust image watermarking  
-## Robust video watermarking  
-## Fast patch matching  
-## Compressed sensing  
-## Inpainting forensics  
-## DNA data processing  
+## [<font color='blue'>Robust image watermarking</font>](https://github.com/academicpages/academicpages.github.io "Image watermarking").  
+## [<font color='blue'>Robust video watermarking</font>](https://github.com/academicpages/academicpages.github.io "Video watermarking").   
+## [<font color='blue'>Fast patch matching</font>](https://github.com/academicpages/academicpages.github.io "Patch matching").   
+## [<font color='blue'>Compressed sensing</font>](https://github.com/academicpages/academicpages.github.io "compressed sensing").   
+## [<font color='blue'>Inpainting forensics</font>](https://github.com/academicpages/academicpages.github.io "Forensics").   
+## [<font color='blue'>DNA data processing</font>](https://github.com/academicpages/academicpages.github.io "DNA").   
