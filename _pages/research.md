@@ -8,7 +8,7 @@ The complete project list is [<font color='blue'>here</font>](https://github.com
 
 ## Robust image watermarking  
 ## Robust vido watermarking  
-## Inpainting forensics  
-## DNA dat processing  
 ## Fast patch matching  
 ## Compressed sensing  
+## Inpainting forensics  
+## DNA data processing  
