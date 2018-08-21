@@ -7,8 +7,8 @@ author_profile: true
 The complete publication list is [<font color='blue'>here</font>](https://xszhugh.github.io/files/publications.pdf "Publications").  
 \*corresponding author  
 ## Journal Papers:  
-[1]	Xinshan Zhu（#）, Yongjun Qian, Ya Sun, Biao Sun*, Siru Yao. A Deep Learning Approach to Patch-based Image Inpainting Forensics. Signal Processing: Image Communication, 2018, 67: 90~99  
-[2]	Zhu Xinshan, Yao Siru, Sun Biao, Qian Yongjun. Image Quality Assessment: Combining the Characteristics of HVS and Structural Similarity Index, Journal of Harbin Institute of Technology, Vol. 50, No. 65, pp. 121-128  (Chinese language)  
+[1]	Xinshan Zhu（#）, Yongjun Qian, Ya Sun, Biao Sun\*, Siru Yao. A Deep Learning Approach to Patch-based Image Inpainting Forensics. Signal Processing: Image Communication, 2018, 67: 90~99  
+[2]	Zhu Xinshan, Yao Siru, Sun Biao\*, Qian Yongjun. Image Quality Assessment: Combining the Characteristics of HVS and Structural Similarity Index, Journal of Harbin Institute of Technology, Vol. 50, No. 65, pp. 121-128  (Chinese language)  
 [3]	Sun, Biao, Zhao, Wenfeng, Zhu, Xinshan\*. Training-free compressed sensing for wireless neural recording using analysis model and group weighted l1-minimization. Journal of Neural Engineering,  Vol. 14, no. 3 , 2017, pp. 036018  
 [4]	Biao Sun, Hui Feng, Kefan Chen, and Xinshan Zhu\*. A Deep Learning Framework of Quantized Compressed Sensing for Wireless Neural Recording. IEEE Access, Vol. 4, 2016, pp. 5169-5178  
 [5]	Xinshan Zhu, Jie Ding, Honghui Dong, Kongfa Hu and Xiaobin Zhang, Normalized Correlation based Quantization Modulation for Robust Watermarking, IEEE Transactions on Multimedia, Vol. 16, No. 7, Nov. 2014, pp. 1888-1904  
