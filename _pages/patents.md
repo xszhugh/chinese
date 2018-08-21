@@ -4,7 +4,7 @@ title: "Patents"
 permalink: /patents/
 author_profile: true
 ---
-The complete patent list is [<font color='blue'>here</font>](https://github.com/academicpages/academicpages.github.io "Patents").  
+The complete patent list is [<font color='blue'>here</font>](https://xszhugh.github.io/files/patents.pdf "Patents").  
 
 ## Watermarking related patents  
 [1]	Wang Yangsheng, Zhou Xiaoxu and Xinshan Zhu. An approach on the distribution and playing of multimedia. CN patent, No. 200310113047.0, 2006.9.13  
