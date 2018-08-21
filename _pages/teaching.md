@@ -9,6 +9,7 @@ Undergraduate course, *Tianjin University*, *School of Electrical and Informatio
 Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, autumn, 2017  
 Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, spring, 2015  
 ## Advanced Labs in Introduction to Electrical Engineering
+Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, autumn, 2018  
 Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, spring, 2017  
 Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, autumn, 2015  
 ## Electrical and electronic integrated curriculum design
