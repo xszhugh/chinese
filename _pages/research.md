@@ -26,6 +26,8 @@ Although image inpainting is now an effective image editing technique, limited w
 <font color='blue'>Fiugre 1 Inpainting applications: scratch or text removal, recovery of missing blocks, object removal </font>
 #### Main contribution   
 The main contribution of this paper is as follows. First, CNNs tend to learn features to represent the image content rather than the manipulation information. To solve this problem, we construct a class label matrix for an image instead of a single label to provide more supervisory information for the training process. Second, the inpainted pixels are usually much less than the uninpainted ones, causing the imbalance between the positive and negative sample data. For this problem, we design the weighted cross-entropy as the loss function for the training. Last, the CNN is built following the encoder–decoder network, which allows to predict the inpainting probability for each pixel in an image. 
+![cnn-forensics](https://xszhugh.github.io/images/cnn-forensics.png)
+<font color='blue'>Fiugre 2 The layout, architecture and parameter settings of the CNN for inpainting forensics </font>
 ### Experimental results
 By the established CNN, inpainting forensics does not need to consider feature extraction and classifier design, and use any postprocessing as in conventional forensics methods. They are combined into the unique framework and optimized simultaneously. Experimental results show that the proposed method achieves superior performance in terms of true positive rate, false positive rate and the running time, as compared with state-of-the-art methods for inpainting forensics, and is very robust against JPEG compression and scaling manipulations.  
 ## <font color='blue'>DNA data processing</font>
