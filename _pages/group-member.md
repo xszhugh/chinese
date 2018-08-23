@@ -5,12 +5,17 @@ permalink: /group-member/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## PhD students
 
-{% include base_path %}
+- Hongquan Wang (co-advised with Prof. Shugen Ma)
+- Geng Zhang (co-advised with Prof. Shugen Ma)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Master students
+- Yongjun Qian 
+- Xu Han
+- Yunzhi Su
+- Huiting Hao
+- Hongrui Liu
+- Shuoshi Li
+- Yongrui Xu
+- Lu Yang (co-advised with Prof. Shugen Ma)
