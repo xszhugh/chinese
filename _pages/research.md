@@ -19,5 +19,5 @@ The complete project list is [<font color='blue'>here</font>](https://xszhugh.gi
 ## <font color='blue'>Inpainting forensics</font>
 ### A deep learning approach to patch-based image inpainting forensics
 [[paper](https://www.sciencedirect.com/science/article/pii/S0923596518305344)] [source code] [dataset] 
-- [Experimental results] -
+<!--[Experimental results]-->
 ## <font color='blue'>DNA data processing</font>
