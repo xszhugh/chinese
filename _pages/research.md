@@ -10,5 +10,5 @@ The complete project list is [<font color='blue'>here</font>](https://xszhugh.gi
 ## [<font color='blue'>Robust video watermarking</font>](https://github.com/academicpages/academicpages.github.io "Video watermarking")   
 ## [<font color='blue'>Fast patch matching</font>](https://github.com/academicpages/academicpages.github.io "Patch matching")   
 ## [<font color='blue'>Compressed sensing</font>](https://github.com/academicpages/academicpages.github.io "compressed sensing")   
-## [<font color='blue'>Inpainting forensics</font>](https://github.com/academicpages/academicpages.github.io "Forensics")   
+## [<font color='blue'>Inpainting forensics</font>](https://xszhugh.github.io/_pages/inpainting-forensics.md "Forensics")   
 ## [<font color='blue'>DNA data processing</font>](https://github.com/academicpages/academicpages.github.io "DNA")  
