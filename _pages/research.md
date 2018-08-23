@@ -27,10 +27,8 @@ Numerical simulations on artificial signals confirm the validity of our analyses
 ![image](https://xszhugh.github.io/images/ncqm-real-images.png)
 ![image](https://xszhugh.github.io/images/ncqm-robust1.png)
 ![image](https://xszhugh.github.io/images/ncqm-robust2.png)
-![image](https://xszhugh.github.io/images/ncqm-robust3.png)
-!image](https://xszhugh.github.io/images/ncqm-robust4.png)
-![image](https://xszhugh.github.io/images/ncqm-robust6.png)
-![image](https://xszhugh.github.io/images/ncqm-robust5.png)
+![image](https://xszhugh.github.io/images/ncqm-robust3.png)![image](https://xszhugh.github.io/images/ncqm-robust4.png)
+![image](https://xszhugh.github.io/images/ncqm-robust6.png)![image](https://xszhugh.github.io/images/ncqm-robust5.png)
 ## <font color='blue'>Robust video watermarking</font>
 ## <font color='blue'>Fast patch matching</font>
 ## <font color='blue'>Compressed sensing</font>
