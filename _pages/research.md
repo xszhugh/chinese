@@ -32,8 +32,8 @@ A feature signal is obtained by computing the normalized correlation (NC) betwee
 <!--<div style="clear:both;"></div>-->
 
 <figure class="half">
-<a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" height="50%"  ></a>  
-</figure>  
+<a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%" ></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png" ><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%"  ></a>  
+</figure>    
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->  
 
 <font color='blue'>Fiugures 1 and 2 The basic watermarking model (left) and a geometric interpretation of watermark embedding and removal (right).   </font>   
@@ -60,12 +60,12 @@ copies using the NCQM method with a 128-bit message embedded and dB (second and 
 
 <font color='blue'>Table 3 COMPARING BER (%) OF OUR METHOD AND THE METHODS IN [10], [12], [16] AND [18] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>   
 <figure class="half">
-<a href="https://xszhugh.github.io/images/ncqm-robust3.png"><img src="https://xszhugh.github.io/images/ncqm-robust3.png" width="35%" ></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust4.png" ><img src="https://xszhugh.github.io/images/ncqm-robust4.png" width="35%"  ></a>  
+<a href="https://xszhugh.github.io/images/ncqm-robust3.png"><img src="https://xszhugh.github.io/images/ncqm-robust3.png" width="33%" ></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust4.png" ><img src="https://xszhugh.github.io/images/ncqm-robust4.png" width="33%"  ></a>  
 </figure>    
 
 <font color='blue'>Table 4 COMPARING BER (%) OF OUR METHOD AND THE METHODS IN [17] AND [36] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>   
 <figure class="half">
-<a href="https://xszhugh.github.io/images/ncqm-robust6.png"><img src="https://xszhugh.github.io/images/ncqm-robust6.png" width="35%" ></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust5.png" ><img src="https://xszhugh.github.io/images/ncqm-robust5.png" width="35%"  ></a>  
+<a href="https://xszhugh.github.io/images/ncqm-robust6.png"><img src="https://xszhugh.github.io/images/ncqm-robust6.png" width="33%" ></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust5.png" ><img src="https://xszhugh.github.io/images/ncqm-robust5.png" width="33%"  ></a>  
 </figure>  
 
 ## <font color='blue'>Robust video watermarking</font>
