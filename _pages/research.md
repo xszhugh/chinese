@@ -28,7 +28,8 @@ The security of digital information becomes an important concern in the digital 
 <img src="https://xszhugh.github.io/images/ncqm-framework.png" width="50%" height="50%" />  
 #### NC-based quantization modulation (NCQM)  
 A feature signal is obtained by computing the normalized correlation (NC) between the host signal $\vec{x}$ and a random signal $\vec{u}$. Information modulation is carried out on the generated NC by selecting a codeword from the codebook associated with the embedded information. The watermarked signal is produced to provide the modulated NC in the sense of minimizing the embedding distortion.  
-![image](https://xszhugh.github.io/images/ncqm-principle.png)
+<img src="https://xszhugh.github.io/images/ncqm-framework.png" width="50%" height="50%" />  
+<img src="https://xszhugh.github.io/images/ncqm-principle.png" width="50%" height="50%" />  
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->
 ### Experimental results
 Numerical simulations on artificial signals confirm the validity of our analyses and exhibit that NCQM achieves the performance closer to the lower bound by decreasing DWR. Simulations on real images show that the proposed NCQM not only achieves the improved watermark imperceptibility and a higher embedding capacity in high-noise regimes, but also is more robust to a wide range of attacks, e.g., valumetric scaling, Gaussian filtering, additive noise, Gamma correction, and Gray-level transformations, as compared with the state-of-the-art watermarking methods.  
