@@ -28,12 +28,12 @@ The security of digital information becomes an important concern in the digital 
 #### NC-based quantization modulation (NCQM)  
 A feature signal is obtained by computing the normalized correlation (NC) between the host signal $\vec{x}$ and a random signal $\vec{u}$. Information modulation is carried out on the generated NC by selecting a codeword from the codebook associated with the embedded information. The watermarked signal is produced to provide the modulated NC in the sense of minimizing the embedding distortion.  
 <center class="half">
-<img src="https://xszhugh.github.io/images/ncqm-framework.png" width="50%" />
-<img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%" />  
+<img src="{{https://xszhugh.github.io }}/images/ncqm-framework.png" width="50%" />
+<img src="{{https://xszhugh.github.io }}/images/ncqm-principle.png" width="20%" />  
 </center>
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->
-<font color='blue'>Fiugres 1 and 2 The basic watermarking model (left) and A geometric interpretation of watermark embedding and removal (right).   </font>  
-### Experimental results
+<font color='blue'>Fiugres 1 and 2 The basic watermarking model (left) and A geometric interpretation of watermark embedding and removal (right).   </font>   
+### Experimental results  
 Numerical simulations on artificial signals confirm the validity of our analyses and exhibit that NCQM achieves the performance closer to the lower bound by decreasing DWR. Simulations on real images show that the proposed NCQM not only achieves the improved watermark imperceptibility and a higher embedding capacity in high-noise regimes, but also is more robust to a wide range of attacks, e.g., valumetric scaling, Gaussian filtering, additive noise, Gamma correction, and Gray-level transformations, as compared with the state-of-the-art watermarking methods.  
 <!--![image](https://xszhugh.github.io/images/ncqm-pevswnr.png)-->
 <!--![image](https://xszhugh.github.io/images/ncqm-real-images.png)-->
