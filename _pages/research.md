@@ -17,7 +17,7 @@ The complete project list is [<font color='blue'>here</font>](https://xszhugh.gi
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6860239)] [source code] [dataset] 
 #### Background   
 The security of digital information becomes an important concern in the digital multimedia era. As such a promising technique, digital watermarking is always one of the active research topics in the multimedia area. Watermarking has many other applications, including copyright protection, access control, authentication, broadcast monitoring, traitor tracing, covert communication, etc.  
-<!--![image](https://xszhugh.github.io/images/ncqm-framework.png)-->
+![image](https://xszhugh.github.io/images/ncqm-framework.png)
 <img src="https://xszhugh.github.io/images/ncqm-framework.png" width=256 height=256 />
 ![image](https://xszhugh.github.io/images/ncqm-framework.png)
 #### NC-based quantization modulation (NCQM)  
