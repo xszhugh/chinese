@@ -30,7 +30,7 @@ A feature signal is obtained by computing the normalized correlation (NC) betwee
 <!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="20%" /></div>-->
 <!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%" /></div>  -->
 <!--<div style="clear:both;"></div>-->
----
+
 <figure class="half">
 <a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="10%"  ></a>  
 </figure>  
@@ -46,10 +46,10 @@ Numerical simulations on artificial signals confirm the validity of our analyses
 <!--![image](https://xszhugh.github.io/images/ncqm-robust2.png)-->
 <!--![image](https://xszhugh.github.io/images/ncqm-robust3.png)![image](https://xszhugh.github.io/images/ncqm-robust4.png)-->
 <!--![image](https://xszhugh.github.io/images/ncqm-robust6.png)![image](https://xszhugh.github.io/images/ncqm-robust5.png)-->
-<img src="https://xszhugh.github.io/images/ncqm-pevswnr.png" width="80%" height="80%" />  
+<img src="https://xszhugh.github.io/images/ncqm-pevswnr.png" width="80%"  />  
 <font color='blue'>Fiugure 3 Theoretical bit-error probability versus WNR for LBM, STDM, QP as 
 well as NCQM and the performance lower bound proposed in [28].   </font>   
-<img src="https://xszhugh.github.io/images/ncqm-real-images.png" width="80%" height="80%" />   
+<img src="https://xszhugh.github.io/images/ncqm-real-images.png" width="80%" />   
 <font color='blue'>Fiugure 4 The original images (first and third columns) and corresponding watermarked
 copies using the NCQM method with a 128-bit message embedded and dB (second and fourth columns).   </font>     
 
@@ -60,7 +60,7 @@ copies using the NCQM method with a 128-bit message embedded and dB (second and 
 
 <font color='blue'>Table 3 COMPARING BER (%) OF OUR METHOD AND THE METHODS IN [10], [12], [16] AND [18] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>   
 <figure class="half">
-<a href="https://xszhugh.github.io/images/ncqm-robust3.png"><img src="https://xszhugh.github.io/images/ncqm-robust3.png" width="40%" ></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust4.png" ><img src="https://xszhugh.github.io/images/ncqm-robust4.png" width="40%"  ></a>  
+<a href="https://xszhugh.github.io/images/ncqm-robust3.png"><img src="https://xszhugh.github.io/images/ncqm-robust3.png" width="38%" ></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust4.png" ><img src="https://xszhugh.github.io/images/ncqm-robust4.png" width="38%"  ></a>  
 </figure>    
 
 <font color='blue'>Table 4 COMPARING BER (%) OF OUR METHOD AND THE METHODS IN [17] AND [36] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>   
