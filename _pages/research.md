@@ -35,8 +35,9 @@ A feature signal is obtained by computing the normalized correlation (NC) betwee
 <a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="15%"  ></a>  
 </figure>  
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->  
+
 <font color='blue'>Fiugures 1 and 2 The basic watermarking model (left) and a geometric interpretation of watermark embedding and removal (right).   </font>   
----
+
 ### Experimental results  
 Numerical simulations on artificial signals confirm the validity of our analyses and exhibit that NCQM achieves the performance closer to the lower bound by decreasing DWR. Simulations on real images show that the proposed NCQM not only achieves the improved watermark imperceptibility and a higher embedding capacity in high-noise regimes, but also is more robust to a wide range of attacks, e.g., valumetric scaling, Gaussian filtering, additive noise, Gamma correction, and Gray-level transformations, as compared with the state-of-the-art watermarking methods.  
 <!--![image](https://xszhugh.github.io/images/ncqm-pevswnr.png)-->
@@ -51,7 +52,7 @@ well as NCQM and the performance lower bound proposed in [28].   </font>
 <img src="https://xszhugh.github.io/images/ncqm-real-images.png" width="80%" height="80%" />   
 <font color='blue'>Fiugure 4 The original images (first and third columns) and corresponding watermarked
 copies using the NCQM method with a 128-bit message embedded and dB (second and fourth columns).   </font>     
----
+
 <font color='blue'>Table 1 COMPARING BER (%) OF NCQM, RDM [14], STDM [6], AND ZAREIAN’S METHOD [20] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>  
 <img src="https://xszhugh.github.io/images/ncqm-robust1.png" width="80%"  />    
 <font color='blue'>Table 2 COMPARING BER (%) OF NCQM, RDM [14], STDM [6], AND ZAREIAN’S METHOD [20] UNDER NOISING AND FILTERING ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>  
