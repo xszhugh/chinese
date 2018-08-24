@@ -17,7 +17,14 @@ The complete project list is [<font color='blue'>here</font>](https://xszhugh.gi
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6860239)] [source code] [dataset] 
 #### Background   
 The security of digital information becomes an important concern in the digital multimedia era. As such a promising technique, digital watermarking is always one of the active research topics in the multimedia area. Watermarking has many other applications, including copyright protection, access control, authentication, broadcast monitoring, traitor tracing, covert communication, etc.  
-<img src="https://xszhugh.github.io/images/ncqm-principle.png" width="300" height="120" alt="CSDN图标" />
+<img src="https://xszhugh.github.io/images/ncqm-framework.png" width="300" height="120" alt="CSDN图标" />
+![image](https://xszhugh.github.io/images/ncqm-principle.png =200x200)
+![image](https://xszhugh.github.io/images/ncqm-principle.png?imageView/2/w/450/q/90)  
+<center>
+<img src="https://xszhugh.github.io/images/ncqm-principle.png" width="25%" height="25%" />
+$ $
+Figure 1. Lena
+</center>
 #### NC-based quantization modulation (NCQM)  
 A feature signal is obtained by computing the normalized correlation (NC) between the host signal $\vec{x}$ and a random signal $\vec{u}$. Information modulation is carried out on the generated NC by selecting a codeword from the codebook associated with the embedded information. The watermarked signal is produced to provide the modulated NC in the sense of minimizing the embedding distortion.  
 ![image](https://xszhugh.github.io/images/ncqm-principle.png)
