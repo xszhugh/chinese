@@ -19,17 +19,17 @@ The complete project list is [<font color='blue'>here</font>](https://xszhugh.gi
 With the rapid development of electronic publishing industry, more and more documents are stored and transmitted in binary image format. Since digital document is easy to copy and edit, the copyright protection becomes an urgent issue. As such a promising technique, binary document image watermarking is always one of the active research topics in multimedia security area, and attracts more and more attention.   
 #### Watermark embedding and decoding  
 The watermark patterns are generated as signals in the discrete cosine transform (DCT) domain, and modulated with the embedded message. The modulated signal is then transformed into the spatial domain and adapted to the characteristics of human visual system by adjusting the localized embedding strengths before embedding. Watermark extractions can be performed by applying a correlation based detector in either of the two domains. The effects of perceptually shaping and the number of the flipped pixels on watermark decoding are also analyzed carefully. The DDW method is combined with an image normalization procedure, which is developed particularly for document image through skew detection and character segmentation, in order to resist synchronization distortions.  
-<img src="https://xszhugh.github.io/images/ddw-geo.png" width="80%"  /> 
+<img src="https://xszhugh.github.io/images/ddw-geo.png" width="80%"  />   
 <font color='blue'>Fiugures 1 The process for image normalization: Hough transform, projection in row and column (left, middle and right in 1st row), original image, word segment and normalized image (left, middle, right in 2nd row).   </font> 
-<img src="https://xszhugh.github.io/images/ddwemb.png" width="80%"  /> 
+<img src="https://xszhugh.github.io/images/ddwemb.png" width="80%"  />   
 <font color='blue'>Fiugures 2 The process for watermark generation and embedding.   </font> 
-<img src="https://xszhugh.github.io/images/ddwdec.png" width="80%"  /> 
+<img src="https://xszhugh.github.io/images/ddwdec.png" width="80%"  />   
 <font color='blue'>Fiugures 3 Watermark extration process.   </font> 
 ### Experimental results  
 The experimental results show that the presented scheme manifests the good robustness against common image manipulations, geometrical attacks as well as print-scan process.  
-<img src="https://xszhugh.github.io/images/ddw-ber.png" width="80%"  /> 
+<img src="https://xszhugh.github.io/images/ddw-ber.png" width="80%"  />   
 <font color='blue'>Fiugures 4 Robustness comparisons for different types of attacks: Gaussian noise, pepper-salt noise, low-pass filtering, image rotation, and image scaling (from left to right).   </font> 
-<img src="https://xszhugh.github.io/images/ddw-sign.png" width="80%"  /> 
+<img src="https://xszhugh.github.io/images/ddw-sign.png" width="80%"  />   
 <font color='blue'>Fiugures 5 Robustness evaluation with a watermark sign: origian watermark sign and the attacked document images (from left to right in 1st row), the extracted watermark by Wu [8] (2nd row), by Qi [9] (3rd row), and by DDW (last row).   </font> 
 
 
