@@ -32,7 +32,7 @@ A feature signal is obtained by computing the normalized correlation (NC) betwee
 <!--<div style="clear:both;"></div>-->
 
 <figure class="half">
-<a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" height="10%"  ></a>  
+<a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" height="50%"  ></a>  
 </figure>  
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->  
 
