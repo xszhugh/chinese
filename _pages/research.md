@@ -16,19 +16,20 @@ The complete project list is [<font color='blue'>here</font>](https://xszhugh.gi
 ### Normalized Correlation-Based Quantization Modulation for Robust Watermarking
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6860239)] [source code] [dataset] 
 #### Background   
-The security of digital information becomes an important concern in the digital multimedia era. As such a promising technique, digital watermarking is always one of the active research topics in the multimedia area. Watermarking has many other applications, including copyright protection, access control, authentication, broadcast monitoring, traitor tracing, covert communication, etc.
-![image](https://xszhugh.github.io/images/ncqm-framework.png)
+The security of digital information becomes an important concern in the digital multimedia era. As such a promising technique, digital watermarking is always one of the active research topics in the multimedia area. Watermarking has many other applications, including copyright protection, access control, authentication, broadcast monitoring, traitor tracing, covert communication, etc.  
+<!--![image](https://xszhugh.github.io/images/ncqm-framework.png)-->
+<img src="https://xszhugh.github.io/images/ncqm-framework.png" width=256 height=256 />
 #### NC-based quantization modulation (NCQM)  
-A feature signal is obtained by computing the normalized correlation (NC) between the host signal $\vec{x}$ and a random signal $\vec{u}$. Information modulation is carried out on the generated NC by selecting a codeword from the codebook associated with the embedded information. The watermarked signal is produced to provide the modulated NC in the sense of minimizing the embedding distortion. 
-![image](https://xszhugh.github.io/images/ncqm-principle.png)
+A feature signal is obtained by computing the normalized correlation (NC) between the host signal $\vec{x}$ and a random signal $\vec{u}$. Information modulation is carried out on the generated NC by selecting a codeword from the codebook associated with the embedded information. The watermarked signal is produced to provide the modulated NC in the sense of minimizing the embedding distortion.  
+<!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->
 ### Experimental results
-Numerical simulations on artificial signals confirm the validity of our analyses and exhibit that NCQM achieves the performance closer to the lower bound by decreasing DWR. Simulations on real images show that the proposed NCQM not only achieves the improved watermark imperceptibility and a higher embedding capacity in high-noise regimes, but also is more robust to a wide range of attacks, e.g., valumetric scaling, Gaussian filtering, additive noise, Gamma correction, and Gray-level transformations, as compared with the state-of-the-art watermarking methods.
-![image](https://xszhugh.github.io/images/ncqm-pevswnr.png)
-![image](https://xszhugh.github.io/images/ncqm-real-images.png)
-![image](https://xszhugh.github.io/images/ncqm-robust1.png)
-![image](https://xszhugh.github.io/images/ncqm-robust2.png)
-![image](https://xszhugh.github.io/images/ncqm-robust3.png)![image](https://xszhugh.github.io/images/ncqm-robust4.png)
-![image](https://xszhugh.github.io/images/ncqm-robust6.png)![image](https://xszhugh.github.io/images/ncqm-robust5.png)
+Numerical simulations on artificial signals confirm the validity of our analyses and exhibit that NCQM achieves the performance closer to the lower bound by decreasing DWR. Simulations on real images show that the proposed NCQM not only achieves the improved watermark imperceptibility and a higher embedding capacity in high-noise regimes, but also is more robust to a wide range of attacks, e.g., valumetric scaling, Gaussian filtering, additive noise, Gamma correction, and Gray-level transformations, as compared with the state-of-the-art watermarking methods.  
+<!--![image](https://xszhugh.github.io/images/ncqm-pevswnr.png)-->
+<!--![image](https://xszhugh.github.io/images/ncqm-real-images.png)-->
+<!--![image](https://xszhugh.github.io/images/ncqm-robust1.png)-->
+<!--![image](https://xszhugh.github.io/images/ncqm-robust2.png)-->
+<!--![image](https://xszhugh.github.io/images/ncqm-robust3.png)![image](https://xszhugh.github.io/images/ncqm-robust4.png)-->
+<!--![image](https://xszhugh.github.io/images/ncqm-robust6.png)![image](https://xszhugh.github.io/images/ncqm-robust5.png)-->  
 ## <font color='blue'>Robust video watermarking</font>
 ## <font color='blue'>Fast patch matching</font>
 ## <font color='blue'>Compressed sensing</font>
