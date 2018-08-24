@@ -27,13 +27,13 @@ The security of digital information becomes an important concern in the digital 
 <!--</center>-->
 #### NC-based quantization modulation (NCQM)  
 A feature signal is obtained by computing the normalized correlation (NC) between the host signal $\vec{x}$ and a random signal $\vec{u}$. Information modulation is carried out on the generated NC by selecting a codeword from the codebook associated with the embedded information. The watermarked signal is produced to provide the modulated NC in the sense of minimizing the embedding distortion.  
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="20%" /></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%" /></div>  
-<div style="clear:both;"></div>
+<!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="20%" /></div>-->
+<!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%" /></div>  -->
+<!--<div style="clear:both;"></div>-->
 <figure class="half">
     <a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="45%"></a>
-    <a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="45%"></a>
-</figure>
+    <a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="30%"></a>
+</figure>  
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->
 <font color='blue'>Fiugres 1 and 2 The basic watermarking model (left) and A geometric interpretation of watermark embedding and removal (right).   </font>   
 ### Experimental results  
