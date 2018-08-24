@@ -34,7 +34,7 @@ A feature signal is obtained by computing the normalized correlation (NC) betwee
     <a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="15%"  ></a>  
 </center>  
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->  
-<font color='blue'>Fiugres 1 and 2 The basic watermarking model (left) and A geometric interpretation of watermark embedding and removal (right).   </font>   
+<font color='blue'>Fiugures 1 and 2 The basic watermarking model (left) and a geometric interpretation of watermark embedding and removal (right).   </font>   
 ### Experimental results  
 Numerical simulations on artificial signals confirm the validity of our analyses and exhibit that NCQM achieves the performance closer to the lower bound by decreasing DWR. Simulations on real images show that the proposed NCQM not only achieves the improved watermark imperceptibility and a higher embedding capacity in high-noise regimes, but also is more robust to a wide range of attacks, e.g., valumetric scaling, Gaussian filtering, additive noise, Gamma correction, and Gray-level transformations, as compared with the state-of-the-art watermarking methods.  
 <!--![image](https://xszhugh.github.io/images/ncqm-pevswnr.png)-->
@@ -42,7 +42,10 @@ Numerical simulations on artificial signals confirm the validity of our analyses
 <!--![image](https://xszhugh.github.io/images/ncqm-robust1.png)-->
 <!--![image](https://xszhugh.github.io/images/ncqm-robust2.png)-->
 <!--![image](https://xszhugh.github.io/images/ncqm-robust3.png)![image](https://xszhugh.github.io/images/ncqm-robust4.png)-->
-<!--![image](https://xszhugh.github.io/images/ncqm-robust6.png)![image](https://xszhugh.github.io/images/ncqm-robust5.png)-->  
+<!--![image](https://xszhugh.github.io/images/ncqm-robust6.png)![image](https://xszhugh.github.io/images/ncqm-robust5.png)-->
+<img src="https://xszhugh.github.io/images/ncqm-pevswnr.png" width="80%" height="80%" />
+<font color='blue'>Fiugure 3 Theoretical bit-error probability versus WNR for LBM, STDM, QP as 
+well as NCQMand the performance lower bound proposed in [28].   </font>   
 ## <font color='blue'>Robust video watermarking</font>
 ## <font color='blue'>Fast patch matching</font>
 ## <font color='blue'>Compressed sensing</font>
