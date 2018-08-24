@@ -30,10 +30,10 @@ A feature signal is obtained by computing the normalized correlation (NC) betwee
 <!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="20%" /></div>-->
 <!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%" /></div>  -->
 <!--<div style="clear:both;"></div>-->
-<figure class="half">
+<center class="half">
     <a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="45%"></a>
-    <a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="30%"></a>
-</figure>  
+    <a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%"></a>
+</center>  
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->
 <font color='blue'>Fiugres 1 and 2 The basic watermarking model (left) and A geometric interpretation of watermark embedding and removal (right).   </font>   
 ### Experimental results  
