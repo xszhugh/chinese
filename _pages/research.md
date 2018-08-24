@@ -30,6 +30,7 @@ A feature signal is obtained by computing the normalized correlation (NC) betwee
 <!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="20%" /></div>-->
 <!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%" /></div>  -->
 <!--<div style="clear:both;"></div>-->
+---
 <figure class="half">
 <a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="15%"  ></a>  
 </figure>  
@@ -50,6 +51,7 @@ well as NCQM and the performance lower bound proposed in [28].   </font>
 <img src="https://xszhugh.github.io/images/ncqm-real-images.png" width="80%" height="80%" />   
 <font color='blue'>Fiugure 4 The original images (first and third columns) and corresponding watermarked
 copies using the NCQM method with a 128-bit message embedded and dB (second and fourth columns).   </font>     
+---
 <font color='blue'>Table 1 COMPARING BER (%) OF NCQM, RDM [14], STDM [6], AND ZAREIAN’S METHOD [20] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>  
 <img src="https://xszhugh.github.io/images/ncqm-robust1.png" width="80%"  />    
 <font color='blue'>Table 2 COMPARING BER (%) OF NCQM, RDM [14], STDM [6], AND ZAREIAN’S METHOD [20] UNDER NOISING AND FILTERING ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>  
