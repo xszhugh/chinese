@@ -30,9 +30,9 @@ A feature signal is obtained by computing the normalized correlation (NC) betwee
 <!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="20%" /></div>-->
 <!--<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="20%" /></div>  -->
 <!--<div style="clear:both;"></div>-->
-<center class="half">
+<figure class="half">
     <a href="https://xszhugh.github.io/images/ncqm-framework.png"><img src="https://xszhugh.github.io/images/ncqm-framework.png" width="60%"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-principle.png"><img src="https://xszhugh.github.io/images/ncqm-principle.png" width="15%"  ></a>  
-</center>  
+</figure>  
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png)-->  
 <font color='blue'>Fiugures 1 and 2 The basic watermarking model (left) and a geometric interpretation of watermark embedding and removal (right).   </font>   
 ### Experimental results  
@@ -43,9 +43,12 @@ Numerical simulations on artificial signals confirm the validity of our analyses
 <!--![image](https://xszhugh.github.io/images/ncqm-robust2.png)-->
 <!--![image](https://xszhugh.github.io/images/ncqm-robust3.png)![image](https://xszhugh.github.io/images/ncqm-robust4.png)-->
 <!--![image](https://xszhugh.github.io/images/ncqm-robust6.png)![image](https://xszhugh.github.io/images/ncqm-robust5.png)-->
-<img src="https://xszhugh.github.io/images/ncqm-pevswnr.png" width="80%" height="80%" />
+<img src="https://xszhugh.github.io/images/ncqm-pevswnr.png" width="80%" height="80%" />  
 <font color='blue'>Fiugure 3 Theoretical bit-error probability versus WNR for LBM, STDM, QP as 
 well as NCQMand the performance lower bound proposed in [28].   </font>   
+<img src="https://xszhugh.github.io/images/ncqm-real-images.png" width="80%" height="80%" />  
+<font color='blue'>Fiugure 4 The original images (first and third columns) and corresponding watermarked
+copies using the NCQM method with a 128-bit message embedded and dB (second and fourth columns).   </font>   
 ## <font color='blue'>Robust video watermarking</font>
 ## <font color='blue'>Fast patch matching</font>
 ## <font color='blue'>Compressed sensing</font>
