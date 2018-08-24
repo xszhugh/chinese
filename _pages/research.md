@@ -19,7 +19,7 @@ The complete project list is [<font color='blue'>here</font>](https://xszhugh.gi
 The security of digital information becomes an important concern in the digital multimedia era. As such a promising technique, digital watermarking is always one of the active research topics in the multimedia area. Watermarking has many other applications, including copyright protection, access control, authentication, broadcast monitoring, traitor tracing, covert communication, etc.  
 <!--<img src="https://xszhugh.github.io/images/ncqm-framework.png" width="300" height="120" alt="CSDN图标" />-->
 <!--![image](https://xszhugh.github.io/images/ncqm-principle.png=200*200)-->
-<!--![image](https://xszhugh.github.io/images/ncqm-principle.png?imageView/2/w/450/q/90)  -->
+<!--![image](https://xszhugh.github.io/images/ncqm-principle.png?imageView/1/w/225/q/90)  -->
 <!--<center>-->
 <!--<img src="https://xszhugh.github.io/images/ncqm-principle.png" width="25%" height="25%" />-->
 <!--$ $-->
