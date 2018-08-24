@@ -50,16 +50,16 @@ well as NCQMand the performance lower bound proposed in [28].   </font>
 <font color='blue'>Fiugure 4 The original images (first and third columns) and corresponding watermarked
 copies using the NCQM method with a 128-bit message embedded and dB (second and fourth columns).   </font>     
 <font color='blue'>Table 1 COMPARING BER (%) OF NCQM, RDM [14], STDM [6], AND ZAREIAN’S METHOD [20] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>  
-<img src="https://xszhugh.github.io/images/ncqm-robust1.png" width="80%" height="80%" />   
+<img src="https://xszhugh.github.io/images/ncqm-robust1.png" width="80%" height="80%" />    
 <font color='blue'>Table 2 COMPARING BER (%) OF NCQM, RDM [14], STDM [6], AND ZAREIAN’S METHOD [20] UNDER NOISING AND FILTERING ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>  
 <img src="https://xszhugh.github.io/images/ncqm-robust2.png" width="80%" height="80%" />   
 <font color='blue'>Table 3 COMPARING BER (%) OF OUR METHOD AND THE METHODS IN [10], [12], [16] AND [18] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>   
 <figure class="half">
-    <a href="https://xszhugh.github.io/images/ncqm-robust3.png"><img src="https://xszhugh.github.io/images/ncqm-robust3.png" width="40%"></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust4.png"><img src="https://xszhugh.github.io/images/ncqm-robust4.png" width="40%"  ></a>  
-</figure>  
-<font color='blue'>Table 4 COMPARING BER (%) OF OUR METHOD AND THE METHODS IN [17] AND [36] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>  
+    <a href="https://xszhugh.github.io/images/ncqm-robust3.png"><img src="https://xszhugh.github.io/images/ncqm-robust3.png" width="42%"></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust4.png"><img src="https://xszhugh.github.io/images/ncqm-robust4.png" width="42%"  ></a>  
+</figure>    
+<font color='blue'>Table 4 COMPARING BER (%) OF OUR METHOD AND THE METHODS IN [17] AND [36] UNDER DIFFERENT TYPES OF ATTACKS (MESSAGE LENGTH = 192 BITS, MSSIM=0.9939).   </font>   
 <figure class="half">
-    <a href="https://xszhugh.github.io/images/ncqm-robust6.png"><img src="https://xszhugh.github.io/images/ncqm-robust6.png" width="40%"></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust5.png"><img src="https://xszhugh.github.io/images/ncqm-robust5.png" width="40%"  ></a>  
+    <a href="https://xszhugh.github.io/images/ncqm-robust6.png"><img src="https://xszhugh.github.io/images/ncqm-robust6.png" width="42%"></a>&emsp;&emsp;&emsp;&emsp;<a href="https://xszhugh.github.io/images/ncqm-robust5.png"><img src="https://xszhugh.github.io/images/ncqm-robust5.png" width="42%"  ></a>  
 </figure>  
 ## <font color='blue'>Robust video watermarking</font>
 ## <font color='blue'>Fast patch matching</font>
