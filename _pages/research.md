@@ -27,7 +27,7 @@ The core algorithm of digital watermarking is made into a dynamic link library f
 ### Mobile watermarking system  
 #### Software information  
 Operation interface:  
-<img src="https://xszhugh.github.io/images/mobile-watermarking.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/mobile-watermarking.png" width="60%"  />   
 <font color='blue'>Figures 2 Operation interface for Mobile watermarking system   </font>
 Software size: 87KB  
 Platform: Win CE  
@@ -38,7 +38,7 @@ When embedding watermark, the complete path of the target image , watermark info
 ### Robust watermarking technology for cultural relics and art pictures  
 #### Software information  
 Operation interface:   
-<img src="https://xszhugh.github.io/images/cultural-watermarking.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/cultural-watermarking.png" width="60%"  />   
 <font color='blue'>Figures 3 Operation interface for cultural image watermarking   </font>
 Platform: Windows  
 Developing language: c and c++  
@@ -50,7 +50,7 @@ It mainly solves the problem of watermark embedding and detection in large-scale
 ### Robust multi-bit video watermarking for national TV drama filing and management system  
 #### Software information  
 Operation interface:  
-<img src="https://xszhugh.github.io/images/video-watermarking.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/video-watermarking.png" width="60%"  />   
 <font color='blue'>Figures 5 Operation interface for robust multi-bit video watermarking   </font>
 Platform: Windows  
 Developing language: c and c++  
