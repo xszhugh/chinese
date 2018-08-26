@@ -16,7 +16,7 @@ The complete project list is [<font color='blue'>here</font>](https://xszhugh.gi
 ### Multimedia content copyright protection system for national digital library
 #### Software information
 Operation interface: 
-<img src="https://xszhugh.github.io/images/ national-digital-library.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/national-digital-library.png" width="80%"  />   
 <font color='blue'>Figures 1 Operation interface for multimedia content copyright protection system   </font>
 Software size: 3788KB
 Platform: Windows
@@ -27,7 +27,7 @@ The core algorithm of digital watermarking is made into a dynamic link library f
 ### Mobile watermarking system
 #### Software information
 Operation interface: 
-<img src="https://xszhugh.github.io/images/ mobile-watermarking.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/mobile-watermarking.png" width="80%"  />   
 <font color='blue'>Figures 2 Operation interface for Mobile watermarking system   </font>
 Software size: 87KB
 Platform: Win CE
@@ -38,25 +38,25 @@ When embedding watermark, the complete path of the target image , watermark info
 ### Robust watermarking technology for cultural relics and art pictures
 #### Software information
 Operation interface: 
-<img src="https://xszhugh.github.io/images/ cultural-watermarking.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/cultural-watermarking.png" width="80%"  />   
 <font color='blue'>Figures 3 Operation interface for cultural image watermarking   </font>
 Platform: Windows
 Developing language: c and c++
 #### functions
 It mainly solves the problem of watermark embedding and detection in large-scale cultural relic images (see Fig. 10). The core algorithm of digital watermarking is made into a dynamic link library for the host program to call. The algorithm has three typical features: 1) watermark is embedded in the transform domain of the signal, but the whole watermark embedding process only needs to carry out one inverse transform to the carrier signal, which greatly reduces the complexity of the watermark; 2) watermark embedding strength is adaptively adjusted in image space domain, which is especially for images with damaged or irregular shape cultural relics, such as unearthed ancient costumes, murals, and pictures of ancient inscriptions; 3) The use of image moments based on fast image normalization technology to enhance the robustness of watermarking against geometric attacks. The scheme has been successfully applied to the copyright protection system of cultural relics and literary pictures in the National Library.
-<img src="https://xszhugh.github.io/images/ cultural-images.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/cultural-images.png" width="80%"  />   
 <font color='blue'>Figures 4 Original and watermarked cultural images  </font>
 
 ### Robust multi-bit video watermarking for national TV drama filing and management system 
 #### Software information
 Operation interface: 
-<img src="https://xszhugh.github.io/images/ video-watermarking.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/video-watermarking.png" width="80%"  />   
 <font color='blue'>Figures 5 Operation interface for robust multi-bit video watermarking   </font>
 Platform: Windows
 Developing language: c and c++
 #### functions
 To test the copyright or source of TV drama, the scheme combines Trellis code, three-dimensional wavelet transform, affine modular transformation based scrambling algorithm, and quantization modulation based on random normalized correlation coefficients. The main feature of the scheme is to set the relevant parameters of watermark embedding rate and robustness on the basis of rigorous theoretical analysis and Monte Carlo simulation experiment. Watermarking detection is blind detection, and does not need the watermark embedding strength information. It can hide multi-bit watermark information in the video signal and satisfy the human eye imperceptibility. It has good robustness to video coding, transcoding, Gamma correction, noise, filtering and other operations. 
-<img src="https://xszhugh.github.io/images/ video-watermarking-process.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/video-watermarking-process.png" width="80%"  />   
 <font color='blue'>Figures 5 Multi-bit video watermark embedding process  </font>
 
 ### Robust Double Domain Watermarking for Binary Document Image
