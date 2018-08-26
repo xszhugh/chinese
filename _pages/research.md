@@ -67,7 +67,7 @@ With the rapid development of electronic publishing industry, more and more docu
 The watermark patterns are generated as signals in the discrete cosine transform (DCT) domain, and modulated with the embedded message. The modulated signal is then transformed into the spatial domain and adapted to the characteristics of human visual system by adjusting the localized embedding strengths before embedding. Watermark extractions can be performed by applying a correlation based detector in either of the two domains. The effects of perceptually shaping and the number of the flipped pixels on watermark decoding are also analyzed carefully. The DDW method is combined with an image normalization procedure, which is developed particularly for document image through skew detection and character segmentation, in order to resist synchronization distortions.  
 <img src="https://xszhugh.github.io/images/ddw-geo.png" width="80%"  />   
 <font color='blue'>Figures 1 The process for image normalization: Hough transform, projection in row and column (left, middle and right in 1st row), original image, word segment and normalized image (left, middle, right in 2nd row).   </font> 
-<img src="https://xszhugh.github.io/images/ddwemb.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/ddwemb.png" width="60%"  />   
 <font color='blue'>Figures 2 The process for watermark generation and embedding.   </font> 
 <img src="https://xszhugh.github.io/images/ddwdec.png" width="80%"  />   
 <font color='blue'>Figures 3 Watermark extration process.   </font> 
