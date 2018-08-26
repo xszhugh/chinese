@@ -69,7 +69,7 @@ The watermark patterns are generated as signals in the discrete cosine transform
 <font color='blue'>Figures 1 The process for image normalization: Hough transform, projection in row and column (left, middle and right in 1st row), original image, word segment and normalized image (left, middle, right in 2nd row).   </font> 
 <img src="https://xszhugh.github.io/images/ddwemb.png" width="60%"  />   
 <font color='blue'>Figures 2 The process for watermark generation and embedding.   </font> 
-<img src="https://xszhugh.github.io/images/ddwdec.png" width="80%"  />   
+<img src="https://xszhugh.github.io/images/ddwdec.png" width="60%"  />   
 <font color='blue'>Figures 3 Watermark extration process.   </font> 
 ### Experimental results  
 The experimental results show that the presented scheme manifests the good robustness against common image manipulations, geometrical attacks as well as print-scan process.  
