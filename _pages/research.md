@@ -27,7 +27,7 @@ The core algorithm of digital watermarking is made into a dynamic link library f
 ### Mobile watermarking system  
 #### Software information  
 Operation interface:  
-<img src="https://xszhugh.github.io/images/mobile-watermarking.png" width="40%"  />   
+<img src="https://xszhugh.github.io/images/mobile-watermarking.png" width="30%"  />   
 <font color='blue'>Figures 2 Operation interface for Mobile watermarking system   </font>
 Software size: 87KB  
 Platform: Win CE  
