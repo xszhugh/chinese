@@ -13,5 +13,5 @@ Dr. Xinshan Zhu received the B.E. degree and the M.E. degree in automation contr
 His research interests include signal processing, multimedia forensics and machine learning.
 
 ### News!
-#### Master positions in image processing, Bioinformatics and deep learning at Tianjin University
+#### Master positions in image processing, Bioinformatics and deep learning at Tianjin University  
 We are looking for two motivated master students skilled in programming or hardware development and interested in artificial intelligence to join our team. Prospective applicants are encouraged to contact Xinshan Zhu by email with a CV and statement of your research interests.
