@@ -14,7 +14,7 @@ Education Details
 Career History
 ------
 2016.03-2017.05  Dept. of Electrical and Computer Engineering, University of Maryland, College Park, USA, Visiting Scholar  
-2013.12-present  School of Electrical Engineering and Automation, Tianjin University, Associate Professor  
+2013.12-present  School of Electrical and Information Engineering, Tianjin University, Associate Professor  
 2010.09-2011.02  Dept. of Computer Science, University College London, Visiting Scholar  
 2007.12-2013.10  School of Information Engineering, Yangzhou University, Associate Professor  
 2005.10-2007.10  Institute of Computer Science & Technology, Peking University, Postdoctor  
