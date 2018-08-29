@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CN"
-title                    : "朱新山学术主页"
+title                    : "朱新山/学术主页"
 title_separator          : "-"
 name                     : &name "朱新山"
 description              : &description "博士，副教授，硕士生导师"
