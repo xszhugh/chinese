@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-CN"
-title                    : "A/Prof. Xinshan Zhu"
+title                    : "朱新山/副教授"
 title_separator          : "-"
-name                     : &name "Xinshan Zhu"
-description              : &description "personal description"
-url                      : https://xszhugh.github-en.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "朱新山"
+description              : &description "副教授，硕士生导师"
+url                      : https://xszhugh.github-cn.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xszhugh/xszhugh.github-en.io"
+repository               : "xszhugh/xszhugh.github-cn.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Xinshan Zhu"
+  name             : "朱新山"
   avatar           : "xinshan zhu.png"
-  bio              : "Institute of Robotics and Autonomous, School of Electrical and Information Engineering, Tianjin University
+  bio              : "机器人与自主系统研究所，电气自动化与信息工程学院, 天津大学
 "
-  location         : "Tianjin, China"
+  location         : "天津，中国"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
