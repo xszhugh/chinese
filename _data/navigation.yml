@@ -1,22 +1,25 @@
 # main links links
 main:
-  - title: "Experience"
+  - title: "主要经历"
     url: /experience/
 
-  - title: "Teaching"
+  - title: "教授课程"
     url: /teaching/   
         
-  - title: "Research"
+  - title: "学术研究"
     url: /research/
     
-  - title: "Publications"
+   - title: "软件"
+    url: /research/
+    
+    - title: "学术论文"
     url: /publications/ 
 
-  - title: "Patents"
+  - title: "专利"
     url: /patents/
         
-  - title: "Group member"
+  - title: "团队成员"
     url: /group-member/
     
-  - title: "Contact"
+  - title: "联系方式"
     url: /contact/
