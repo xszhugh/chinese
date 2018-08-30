@@ -9,10 +9,10 @@ main:
   - title: "学术研究"
     url: /research/
     
-   - title: "软件"
+  - title: "软件"
     url: /research/
     
-    - title: "学术论文"
+  - title: "学术论文"
     url: /publications/ 
 
   - title: "专利"
