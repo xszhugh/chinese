@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: ""
 permalink: /group-member/
 author_profile: true
 ---
