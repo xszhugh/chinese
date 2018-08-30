@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "主要经历"
 permalink: /experience/
 author_profile: true
 ---
