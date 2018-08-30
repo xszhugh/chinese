@@ -1,20 +1,22 @@
 ---
 layout: archive
-title: "Experience"
+title: "主要经历"
 permalink: /experience/
 author_profile: true
 ---
 
-Education Details
+学历
 ------
-2002.09-2005.07    Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences, Ph. D., Supervisor: Yangsheng Wang  
-2000.09-2002.07    Control Theory and Control Engineering, Dept. of Automation, School of astronautics, Harbin Institute of Technology, M. E., Supervisor: Fuen Zhang  
-1996.09-2000.07    Automation, Dept. of Automation, School of astronautics, Harbin Institute of Technology, B. E.  
+1996.9-2000.6    哈尔滨工业大学                自动化           攻读学士学位
+2000.9-2002.7    哈尔滨工业大学            控制理论与控制工程     攻读硕士学位 
+2002.9-2005.7    中国科学院自动化研究所     模式识别与智能系统     攻读博士学位
 
-Career History
+
+工作经历
 ------
-2016.03-2017.05  Dept. of Electrical and Computer Engineering, University of Maryland, College Park, USA, Visiting Scholar  
-2013.12-present  School of Electrical and Information Engineering, Tianjin University, Associate Professor  
-2010.09-2011.02  Dept. of Computer Science, University College London, Visiting Scholar  
-2007.12-2013.10  School of Information Engineering, Yangzhou University, Associate Professor  
-2005.10-2007.10  Institute of Computer Science & Technology, Peking University, Postdoctor  
+2005.10-2007.10  北京大学计算机科学技术研究所   计算机应用          博士后
+2010.9-2011.2    University College London  Dept. of Computer Science          访问学者
+2007.10-2013.10  扬州大学信息工程学院          计算机应用         副教授
+2013.10至今      天津大学电气与自动化工程学院   模式识别与智能系统   副教授
+2016.03-2017.05      University of Maryland   Dept. of Electrical and Computer Engineering  访问学者
+
