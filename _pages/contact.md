@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "联系方式"
+<!--title: "联系方式"--> 
 permalink: /contact/
 author_profile: true
 ---
-
 ## 地址
 ------
 天津市南开区卫津路92号，天津大学，卫津路校区，26号教学楼E531室，300072
