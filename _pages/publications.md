@@ -6,7 +6,7 @@ author_profile: true
 ---
 完整的论文列表[<font color='blue'>下载</font>](https://xszhugh.github.io/files/publications.pdf "Publications").  
 \*通信作者  
-## Journal Papers:  
+## 期刊论文  
 [1]	Xinshan Zhu（#）, Yongjun Qian, Xianfeng Zhao, Biao Sun\*, Ya Sun. A Deep Learning Approach to Patch-based Image Inpainting Forensics. Signal Processing: Image Communication, 2018, 67: 90~99  
 [2]	Zhu Xinshan, Yao Siru, Sun Biao\*, Qian Yongjun. Image Quality Assessment: Combining the Characteristics of HVS and Structural Similarity Index, Journal of Harbin Institute of Technology, Vol. 50, No. 65, pp. 121-128  (Chinese language)  
 [3]	Sun, Biao, Zhao, Wenfeng, Zhu, Xinshan\*. Training-free compressed sensing for wireless neural recording using analysis model and group weighted l1-minimization. Journal of Neural Engineering,  Vol. 14, no. 3 , 2017, pp. 036018  
@@ -24,7 +24,7 @@ author_profile: true
 [15]	Xinshan Zhu\* and Jie Ding. A novel quantization watermarking scheme using random normalized correlation modulation. Chinese Journal of Computers, 2012.9, Vol. 35, No. 9, pp. 1959-1970 (Chinese language)  
 [16]	Xinshan Zhu，Zhi Tang. Adaptive Watermarking Based on Localized Perceptual Quality Evaluation. Journal Of Peking University (Natural Sciences)，2008, Vol. 44, No. 1, pp. 77-86 (Chinese language)  
 [17]	Liu Feilong, Xinshan Zhu\* and Wang Yangsheng. Feature Based Fragile Image Watermarking Framework and Application. Acta Automatica Sinica, 2004, Vol. 30, No. 5, pp. 641-651  
-## Selected Conference Papers:  
+## 主要会议论文  
 [1]	Xinshan Zhu\*, Shuoling Peng. A Novel Quantization watermarking Scheme by Modulating the Normalized Correlation. The 37th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Kyoto, Japan, Mar., 2012, pp. 1765-1768, oral presentation.   
 [2]	Xinshan Zhu\*, Zhi Tang. Improved Quantization Index Modulation Watermarking Robust Against Amplitude Scaling and Constant Change Distortions. International Conference on Image Processing (ICIP), San Diego, 2008, pp. 433-436   
 [3]	Xiaoyi Yu, Xinshan Zhu, and N. Babaguchi. Steganography using sensor noise and linear prediction synthesis filter. International Conference on Image Processing (ICIP), San Antonio, 2007, part ∏, pp. 157-160   
