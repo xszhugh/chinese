@@ -1,19 +1,18 @@
 ---
 layout: archive
-title: "Contact"
+title: "联系方式"
 permalink: /contact/
 author_profile: true
 ---
 
-Address:
+## 地址
 ------
-Room 531, Building 26E, Weijin Park Campus, Tianjin University, 
-No. 92, Weijin Road, Tianjin 300072, China
+天津市南开区卫津路92号，天津大学，卫津路校区，26号教学楼E531室，300072
 
-Email:
+## Email
 ------
 xszhu@tju.edu.cn; xszhu126@126.com
 
-Phone: 
+## 电话： 
 ------
 +86-15122580213
