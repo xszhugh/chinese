@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "简介"
-excerpt: "简介"
+title: "概况"
+excerpt: "概况"
 author_profile: true
 redirect_from: 
   - /about/
