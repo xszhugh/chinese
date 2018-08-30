@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group member"
+title: "团队成员"
 permalink: /group-member/
 author_profile: true
 ---
