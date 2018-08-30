@@ -5,17 +5,17 @@ permalink: /group-member/
 author_profile: true
 ---
 
-## PhD students
+## 博士研究生
 
-- Hongquan Wang (co-advised with Prof. Shugen Ma)
-- Geng Zhang (co-advised with Prof. Shugen Ma)
+- 王洪泉 (与马书根教授联合指导)
+- 张耿 (与马书根教授联合指导)
 
-## Master students
-- Yongjun Qian 
-- Xu Han
-- Yunzhi Su
-- Huiting Hao
-- Hongrui Liu
-- Shuoshi Li
-- Yongrui Xu
-- Lu Yang (co-advised with Prof. Shugen Ma)
+## 硕士研究生
+- 钱永军 
+- 韩旭
+- 苏云志
+- 郝惠亭
+- 刘洪瑞
+- 李硕士
+- 徐永瑞
+- 杨璐 (与马书根教授联合指导)
