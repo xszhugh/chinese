@@ -4,39 +4,28 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Introduction to Electrical Engineering
-Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, spring, 2018  
-Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, autumn, 2017  
-Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, spring, 2015  
-## Advanced Labs in Introduction to Electrical Engineering
-Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, autumn, 2018  
-Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, spring, 2017  
-Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, autumn, 2015  
-## Electrical and electronic integrated curriculum design
-Undergraduate course, *Tianjin University*, *School of Electrical and Information Engineering*, autumn, 2017  
-## Principles of Operating System
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2013  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2012  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2011  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2010  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2009  
-## Advanced Labs in Operating Systems
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2013  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2012  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2011  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2010  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2009  
-## Principles of Operating System curriculum design
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, autumn, 2009  
-## Computer Information Security Technology
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2013  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, autumn, 2012  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2012  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, autumn, 2011  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, autumn, 2009  
-## Advanced Labs in Computer Information Security Technology
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2013  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, autumn, 2012  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, spring, 2012  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, autumn, 2011  
-Undergraduate course, *Yangzhou University*, *School of Information Engineering*, autumn, 2009  
+## 电气工程学概论
+本科生课程，*天津大学*，*电气自动化与信息工程学院*，2018春  
+本科生课程，*天津大学*，*电气自动化与信息工程学院*，2017秋  
+本科生课程，*天津大学*，*电气自动化与信息工程学院*，2015春  
+## 电工学实验
+本科生课程，*天津大学*，*电气自动化与信息工程学院*，2018秋   
+本科生课程，*天津大学*，*电气自动化与信息工程学院*，2017春  
+本科生课程，*天津大学*，*电气自动化与信息工程学院*，2015秋   
+## 电工电子技术综合课程设计
+本科生课程，*天津大学*，*电气自动化与信息工程学院*，2017秋   
+## 操作系统原理
+本科生课程，*扬州大学*，*信息工程学院*，2013春  
+本科生课程，*扬州大学*，*信息工程学院*，2012春  
+本科生课程，*扬州大学*，*信息工程学院*，2011春  
+本科生课程，*扬州大学*，*信息工程学院*，2010春  
+本科生课程，*扬州大学*，*信息工程学院*，2009春  
+## 操作系统原理课程设计
+本科生课程，*扬州大学*，*信息工程学院*，2009秋   
+## 计算机信息安全技术
+本科生课程，*扬州大学*，*信息工程学院*，2013春  
+本科生课程，*扬州大学*，*信息工程学院*，2012秋   
+本科生课程，*扬州大学*，*信息工程学院*，2012春  
+本科生课程，*扬州大学*，*信息工程学院*，2011秋   
+本科生课程，*扬州大学*，*信息工程学院*，2009秋   
+
