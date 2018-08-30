@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "联系方式"
 permalink: /contact/
 author_profile: true
 ---
