@@ -4,7 +4,6 @@ permalink: /group-member/
 author_profile: true
 ---
 ## 博士研究生
-
 - 王洪泉 (同马书根教授联合指导)
 - 张耿 (同马书根教授联合指导)
 
