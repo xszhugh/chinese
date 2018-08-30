@@ -4,7 +4,6 @@ title: ""
 permalink: /experience/
 author_profile: true
 ---
-
 ## 学历
 ------
 - 1996.9-2000.6    哈尔滨工业大学                自动化           攻读学士学位
