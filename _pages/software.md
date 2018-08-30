@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "软件系统"
 permalink: /software/
 author_profile: true
 ---
@@ -58,3 +57,4 @@ author_profile: true
 用于“全国电视剧备案管理系统”，实现对电视剧版权或来源的检测。该方案结合了Trellis code、三维小波变换、基于affine modular transformation的置乱算法，以及基于随机归一化相关系数的量化调制等技术，其主要特点是在严格的理论分析和Monte Carlo仿真实验的基础上设定水印嵌入率和鲁棒性的相关参数，水印检测是盲检测，而且无须输入水印嵌入强度信息，可以实现在视频信号中隐藏多位水印信息，并满足人眼不可感知性，对视频编码、转码、Gamma校正、噪声、滤波等操作具有良好的鲁棒性。  
 <img src="https://xszhugh.github.io/images/video-watermarking-process.png" width="80%"  />   
 <font color='blue'>图5 多位视频水印嵌入过程  </font>
+<!--title: "软件系统"-->
