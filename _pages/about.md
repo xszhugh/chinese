@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xinshan Zhu received the B.E. degree and the M.E. degree in automation control from Harbin Institute of Technology, China, in 2000 and 2002, respectively, and the Ph.D. degree in pattern recognition and intelligent systems from Institute of Automation, Chinese Academic Sciences, in 2005. From Oct. 2005 to Nov. 2007, he was a Postdoctoral Research Fellow with the Institute of Computer Science & Technology, Peking University, Beijing. After that, he became an associate professor with the School of Information Engineering, Yangzhou University, Jiangsu. In Dec. 2013, he joined the faculty of School of Electrical and Information Engineering, Tianjin University, Tianjin, where he served as Ph.D. & Master’s supervisor. Then, in Mar. 2016, he was a visiting scholar of University of Maryland, College Park, USA, for one year. Dr. Zhu has published more than 30 academic papers in referred journals and conferences, including IEEE Transactions on Multimedia, Signal Processing, EURASIP Journal on Advances in Signal Processing, International Journal of Computer and Electrical Engineering, Chinese Journal of Computers, and Acta Automatica Sinica, etc.. He is a member of IEEE, ACM and CCF. He was also a reviewer for IEEE Transactions on Information Forensics & Security, IEEE Transactions on Multimedia, IEEE Signal Processing Letters, and Pattern Recognition Letters, etc..
+现任天津大学电气自动化与信息工程学院副教授、硕士生导师、博士生导师。曾就读于哈尔滨工业大学自动控制专业，分别于2000年和2002获得学士学位和硕士学位，之后，就读于中国科学院自动化研究所模式识别与智能系统专业，2005年毕业获得博士学位，同年开始在北京大学计算机科学技术研究所做博士后研究，2010年与2016年分别在英国伦敦大学学院（UCL）计算机系和马里兰大学电气与计算机工程系做为期半年与一年的访问学者。目前，已在国际期刊《IEEE Transactions on Multimedia》、《EURASIP Journal on Advances in Signal Processing》、《Journal of Information Hiding and Multimedia Signal Processing》、《International Journal of Computer and Electrical Engineering》和《Sensor Letters》等，国内期刊《计算机学报》、《自动化学报》和《北京大学学报》等，以及重要的国际学术会议ICPR、ICME、ICIP和ICASSP上，共发表学术论文30篇，拥有5项中国发明专利。主持完成博士后科学基金、国家自然科学基金、江苏省自然科学基金和多项国家重点实验室开放课题等多个项目，参与项目研究10余项。曾荣获中国商业联合会科学技术奖——全国商业科技进步奖二等奖（排名第六）。2010年被评选为 “青蓝工程”骨干教师。他是中国计算机学会会员、IEEE专业会员和ACM会员，并担任IEEE Transactions on Information Forensics & Security, IEEE Transactions on Multimedia, IEEE Signal Processing Letters, and Pattern Recognition Letters等多个国际知名期刊的审稿人。
 
-His research interests include signal processing, multimedia forensics and machine learning.
+主要研究领域为多媒体取证、大数据分析与深度学习。
 
-### News!
-#### Master positions in image processing, Bioinformatics and deep learning at School of Electrical and Information Engineering, Tianjin University  
-We are looking for two motivated master students skilled in programming or hardware development and interested in artificial intelligence to join our team. Prospective applicants are encouraged to contact Xinshan Zhu by email with a CV and statement of your research interests.
+### 通知！
+#### 2019年天津大学图像处理、生物信息处理与深度学习方向硕士研究生招生启事    
+欢迎主动性强，具有软件开发或者硬件开发经验，并对人工智能感兴趣的本科生加入我们团队。申请通过email(xszhu126@126.com)，并请提交一份个人简历与研究兴趣的描述。
+
+
