@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: ""
 permalink: /contact1/
 author_profile: true
 ---
