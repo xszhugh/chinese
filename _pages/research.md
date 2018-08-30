@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "学术研究"
 permalink: /research/
 author_profile: true
 ---
@@ -106,3 +105,4 @@ By the established CNN, inpainting forensics does not need to consider feature e
 ![table](https://xszhugh.github.io/images/cnn-forensics-table2.png)  
 
 ## <font color='blue'>DNA data processing</font>
+<!--title: "学术研究"-->
