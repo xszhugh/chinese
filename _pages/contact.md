@@ -1,6 +1,5 @@
 ---
 layout: archive
-<!--title: "联系方式"--> 
 permalink: /contact/
 author_profile: true
 ---
@@ -15,3 +14,4 @@ xszhu@tju.edu.cn; xszhu126@126.com
 ## 电话： 
 ------
 +86-15122580213
+<!--title: "联系方式"--> 
