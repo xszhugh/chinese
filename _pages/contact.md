@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /contact1/
+permalink: /contact/
 author_profile: true
 ---
 ## 地址
