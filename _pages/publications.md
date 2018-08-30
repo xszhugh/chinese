@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-The complete publication list is [<font color='blue'>here</font>](https://xszhugh.github.io/files/publications.pdf "Publications").  
-\*corresponding author  
+完整的论文列表[<font color='blue'>下载</font>](https://xszhugh.github.io/files/publications.pdf "Publications").  
+\*通信作者  
 ## Journal Papers:  
 [1]	Xinshan Zhu（#）, Yongjun Qian, Xianfeng Zhao, Biao Sun\*, Ya Sun. A Deep Learning Approach to Patch-based Image Inpainting Forensics. Signal Processing: Image Communication, 2018, 67: 90~99  
 [2]	Zhu Xinshan, Yao Siru, Sun Biao\*, Qian Yongjun. Image Quality Assessment: Combining the Characteristics of HVS and Structural Similarity Index, Journal of Harbin Institute of Technology, Vol. 50, No. 65, pp. 121-128  (Chinese language)  
