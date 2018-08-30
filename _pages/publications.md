@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "论文"
 permalink: /publications/
 author_profile: true
 ---
@@ -35,3 +34,4 @@ author_profile: true
 [8]	Yong Gao, Xinshan Zhu and Xiangsheng Huang, et al.. A Voting Method and Its Application in Precise Object Location. Proc. Affective Computing and Intelligent Interaction (ACII) Oct. 2005, Lecture Notes in Computer Science (LNCS) 3784. 257-262   
 [9]	Xinshan Zhu\*, Yong Gao and Yan Zhu. Image-adaptive Watermarking Based on Perceptually Shaping Watermark Blockwise. ACM Symposium on Information, Computer and Communications Security, Taiwan, 2006, pp. 175-181  
 [10]	Gao Yong, Wang Yangsheng and Xinshan Zhu, et al. “Weighted Gabor Features in Unitary Space for Face Recognition,” Proc. the 7th International Conference on Automatic Face and Gesture Recognition (FGR06), IEEE Computer Society, 2006. 79-84  
+<!--title: "论文"--> 
