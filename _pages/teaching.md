@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "教授课程"
 permalink: /teaching/
 author_profile: true
 ---
@@ -28,4 +27,4 @@ author_profile: true
 本科生课程，*扬州大学*，*信息工程学院*，2012春  
 本科生课程，*扬州大学*，*信息工程学院*，2011秋   
 本科生课程，*扬州大学*，*信息工程学院*，2009秋   
-
+<!--title: "教授课程"-->
