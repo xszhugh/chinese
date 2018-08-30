@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /contact/
+permalink: /contact1/
 author_profile: true
 ---
 ## 地址
