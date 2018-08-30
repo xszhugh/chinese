@@ -21,8 +21,6 @@ main:
   - title: "团队成员"
     url: /group-member/
     
-  - title: "团队成员"
+  - title: "联系方式"
     url: /contact1/
     
-  - title: "联系方式" 
-    url: /contact/
