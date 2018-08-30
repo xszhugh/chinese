@@ -10,7 +10,7 @@ author_profile: true
 <!--## [<font color='blue'>Compressed sensing</font>](https://github.com/academicpages/academicpages.github.io "compressed sensing") -->  
 <!--## [<font color='blue'>Inpainting forensics</font>](https://xszhugh.github.io/_pages/inpainting-forensics.md "Forensics")  --> 
 <!--## [<font color='blue'>DNA data processing</font>](https://github.com/academicpages/academicpages.github.io "DNA")  -->
-## <font color='blue'>Robust image watermarking</font>
+## <font color='blue'>鲁棒图像水印</font>
 ### 国家数字图书馆多媒体内容版权保护系统
 #### 软件信息
 软件界面  
@@ -46,6 +46,7 @@ author_profile: true
 <img src="https://xszhugh.github.io/images/cultural-images.png" width="80%"  />   
 <font color='blue'>图4 原始的和加水印后的文物图像示例  </font>
 
+### <font color='blue'>鲁棒视频水印技术</font>
 ### 面向全国电视剧备案管理系统的多位鲁棒视频水印技术
 #### 软件信息  
 软件界面  
