@@ -10,7 +10,7 @@ main:
     url: /research/
     
   - title: "软件"
-    url: /research/
+    url: /software/
     
   - title: "学术论文"
     url: /publications/ 
