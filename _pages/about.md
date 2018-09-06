@@ -15,7 +15,11 @@ redirect_from:
 ---
 
 ### 通知！
-- 2019年天津大学图像处理、生物信息处理与深度学习方向硕士研究生招生启事    
+- ### 2018年普朗克佛罗里达神经科学研究所（Max Planck Florida Institute for Neuroscience）神经科学与计算建模方向博士后招聘启事    
+欢迎主动性强,能够独立开展研究，并对神经科学与计算建模感兴趣的研究者加入该团队。申请通过email(Yingxue.Wang@mpfi.org)，并请提交一份个人简历与研究兴趣的描述。具体信息可访问网址:https://www.yingxuewang.org/positions/。
+
+- ### 2018年普朗克佛罗里达神经科学研究所（Max Planck Florida Institute for Neuroscience）神经科学与计算建模方向博士生招生启事    
+欢迎具有相关领域硕士学位，主动性强，对神经科学与计算建模感兴趣的研究者加入该团队。申请通过email(Yingxue.Wang@mpfi.org)，并请提交一份个人简历与研究兴趣的描述。具体信息可访问网址:https://www.yingxuewang.org/positions/。
+
+- ### 2019年天津大学图像处理、生物信息处理与深度学习方向硕士研究生招生启事    
 欢迎主动性强，具有软件开发或者硬件开发经验，并对人工智能感兴趣的本科生加入我们团队。申请通过email(xszhu126@126.com)，并请提交一份个人简历与研究兴趣的描述。
-
-
